@@ -1,0 +1,24 @@
+# Python 相關
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+.env
+
+# 臨時檔案
+*.log
+*.tmp
+*.swp
+
+# macOS 系統檔案
+.DS_Store
+
+# 其他不必要的檔案
+*.zip
+*.tar.gz
+*.rar
+*.7z
